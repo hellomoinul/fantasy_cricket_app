@@ -1,3 +1,9 @@
+# Fantasy Cricket App (Flutter)
+
+> Forked from `amitsurjo57/fantasy_cricket_app` for learning & experimentation — exploring cross-platform mobile UI and state management with Flutter & Dart.
+
+---
+
 # fantasy_cricket_app
 
 A new Flutter project.
